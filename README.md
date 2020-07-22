@@ -9,3 +9,7 @@ In this project, i want to analyzing restaurant reviews from Zomato Website. The
  - Packages: pandas, numpy, sklearn, nltk
  - Dataset: https://www.kaggle.com/vikrishnan/boston-house-prices
  - Further Information about jcopml : https://github.com/WiraDKP/supervised_learning
+ 
+  ## Run
+ 
+ Open [View Project Code](https://github.com/ferdiansatria95/ds_sentiment-analysist/blob/master/Sentiment%20Analysis_Zomato.ipynb)
