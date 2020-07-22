@@ -7,7 +7,7 @@ In this project, i want to analyzing restaurant reviews from Zomato Website. The
 ## Code and Resourced Used
  - Python Version: 3.7
  - Packages: pandas, numpy, sklearn, nltk
- - Dataset: https://www.kaggle.com/vikrishnan/boston-house-prices
+ - Dataset: https://www.kaggle.com/batjoker/zomato-restaurants-hyderabad/kernels
  - Further Information about jcopml : https://github.com/WiraDKP/supervised_learning
  
   ## Run
